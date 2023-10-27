@@ -1,14 +1,24 @@
-After creating the React app we need to install Required Dependencies using the command npm install and start using npm start.
-After creating a repo named ReactFrameworkUI, I've pushed the code into this repo using the following commands in GitBash 
+I used the following commands 
+
+npx create-react-app front-end
+
+npm install 
 
 
-Git add .
+npm start
+
+After creating a repo named ReactFrameworkUI, I've pushed the code into this repo using the following commands in Git
+
+git init
 
 
-Git commit 
+git add .
 
 
-Git pull 
+git commit -m "Commit" 
 
 
-Git push
+git pull 
+
+
+git push
