@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -83,3 +84,6 @@ npm install
 
 npm start
 >>>>>>> 8fcf48d397913b3350b03c582ffab234a98bb07f
+=======
+npx create-react-app front-end, npm install, npm start
+>>>>>>> 61f92cbf358385edde42330a731f8c51fbdd7a48
