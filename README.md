@@ -1,3 +1,1 @@
-npx create-react-app front-end
-npm install
-npm start
+npx create-react-app front-end, npm install, npm start
