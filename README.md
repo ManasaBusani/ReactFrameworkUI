@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # ReactFrameworkUI
 >>>>>>> e678541aafa84a78300ac35b087ee1a725b4f654
+=======
+npx create-react-app front-end
+
+
+npm install
+
+
+
+npm start
+>>>>>>> 8fcf48d397913b3350b03c582ffab234a98bb07f
